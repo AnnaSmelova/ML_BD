@@ -1,2 +1,4 @@
-# ML_BD
-MADE ML on BigData course
+# ML_BigData
+
+Homeworks<br>
+MADE Академия Больших Данных
