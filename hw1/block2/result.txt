@@ -1,0 +1,2 @@
+Mean by Numpy: 152.7206871868289 and var by Numpy: 57672.84569843345
+Mean by MapReduce: 152.7206871868289 and var by MapReduce: 57672.84569843354
