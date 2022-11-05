@@ -2,7 +2,7 @@
 
 ### В рамках данного домашнего задания предлагается реализовать алгоритм линейной регрессии на Scala с использованием библиотеки Breeze.
 
-Решение оформлено в виде полноценного проекта на Scala.<br>
+Решение оформлено в виде полноценного <a href='https://github.com/AnnaSmelova/ML_BD/tree/main/hw3/MLBD_hw3_LR'>проекта на Scala</a>.<br>
 
 Данные для обучения и валидации: <a href='https://www.kaggle.com/datasets/shrutipandit707/salesdata'>Kaggle Sales Data</a>.<br>
 
