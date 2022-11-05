@@ -1,0 +1,26 @@
+ноя 05, 2022 2:56:07 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Loading data...
+ноя 05, 2022 2:56:11 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Train data loaded.
+ноя 05, 2022 2:56:11 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Total train objects 140
+ноя 05, 2022 2:56:11 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Test data loaded.
+ноя 05, 2022 2:56:11 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Total test objects 60
+ноя 05, 2022 2:56:11 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Fitting LR...
+ноя 05, 2022 2:56:12 AM LRPackage.LR fit
+INFO: Train data length 112
+ноя 05, 2022 2:56:12 AM LRPackage.LR fit
+INFO: Validation data length 27
+ноя 05, 2022 2:56:12 AM LRPackage.LR fit
+INFO: Validation MSE=1.2303237111352547, r2score=0.9447351825829429
+ноя 05, 2022 2:56:12 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Predicting result...
+ноя 05, 2022 2:56:12 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Final Test MSE = 3.9386496859195, r2score = 0.8691842007604734
+ноя 05, 2022 2:56:12 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Writing result...
+ноя 05, 2022 2:56:12 AM LRPackage.Main$ delayedEndpoint$LRPackage$Main$1
+INFO: Done!
